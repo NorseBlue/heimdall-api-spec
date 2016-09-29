@@ -1,15 +1,12 @@
-# Norse Blue | Heimdall
+# NorseBlue | Heimdall
 
-[![Author][ico-norseblue]]([lnk-norseblue]])
-[![Software License][ico-license]]([lnk-license])
-
-[![Latest Version][ico-latest]]([lnk-heimdall])
+[![Author][ico-norseblue]]([lnk-norseblue]])[![Software License][ico-license]]([lnk-license])[![Latest Version][ico-latest]]([lnk-heimdall])
 
 Apart from guard duty, Heimdall is the ever-watchful sentinel who waits with his horn to announce the end of the world.
 
-Heimdall is a secure User Managment Authentication and Authorization System (UMAAS) to serve as a single endpoint to manage multiple application users and permissions.
+Heimdall is a secure User Management System to serve as a single endpoint to manage user accounts and permissions for various applications.
 
-The system is built as a RESTful API for exposing the functionality to multiple platforms and devices.
+The system is built as a RESTful API service to expose the functionality to multiple platforms and devices.
 
 [lnk-norseblue]: https://norse.blue
 [ico-norseblue]: https://img.shields.io/badge/author-Norse%20Blue-blue.svg?style=flat-square
