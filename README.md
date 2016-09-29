@@ -1,6 +1,6 @@
 # NorseBlue | Heimdall
 
-[![Author][ico-norseblue]]([lnk-norseblue]])[![Software License][ico-license]]([lnk-license])[![Latest Version][ico-latest]]([lnk-heimdall])
+[![Author][ico-norseblue]]([lnk-norseblue]]) [![Software License][ico-license]]([lnk-license]) [![Latest Version][ico-latest]]([lnk-heimdall])
 
 Apart from guard duty, Heimdall is the ever-watchful sentinel who waits with his horn to announce the end of the world.
 
